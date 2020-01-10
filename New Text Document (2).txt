@@ -1,0 +1,7 @@
+checkout -switching ) versions ,branches,tags,take a look on file/folder  
+
+
+undo-
+	checkout -safe undo unstaged or uncommited
+	rever - safe undo commits ,recommended for private as well as public 
+	reset - unsafe undo commited,private and local ,file level and commit
