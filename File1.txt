@@ -3,12 +3,13 @@ Hello World
 Welcome to Git
 
 
-feature1 - login-updated for login feature by team
+feature1 -> login-updated for login feature by team
 
 
-feature2 = logout
+feature2 -> logout
 
-bug1 - fixed
+Bug1 -> fixed
  
-bug2 - fixed
+Bug2 -> fixed
 
+change added for rebase test
