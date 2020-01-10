@@ -6,7 +6,8 @@ Welcome to Git
 feature1 -> login-updated for login feature by team
 
 
-feature2 -> logout
+feature2 -> rebase test
+logout
 
 Bug1 -> fixed
  
