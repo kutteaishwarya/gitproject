@@ -1,4 +1,5 @@
 Hello World
+
 Welcome to Git
 
 
@@ -6,6 +7,8 @@ feature1 - login-updated for login feature by team
 
 
 feature2 = logout
-bug1 - fixed
 
+bug1 - fixed
+ 
+bug2 - fixed
 
